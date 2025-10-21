@@ -1,0 +1,2 @@
+# Arquivos de texto sempre usar LF (Unix)
+* text=auto eol=lf
